@@ -1,0 +1,86 @@
+Data Analytics Essentials — Intermediate Level:
+===============================================
+
+📘 Lesson 1: Correlation vs Causation:
+======================================
+🔍 Summary:
+Correlation means two variables move together
+
+Causation means one variable causes the other
+
+Correlation ≠ Causation ⚠️
+
+🧠 Real-World Example:
+At YouTube, if video views increase and ad revenue increases, that’s correlation.
+But just uploading more videos won’t always cause higher revenue — quality matters!
+
+
+📘 Lesson 2: Outlier Detection:
+===============================
+🔍 Summary:
+Outliers are extreme values that deviate significantly from the rest. They can:
+
+Skew analysis
+
+Reveal errors or interesting trends
+
+Methods:
+
+Z-score
+
+IQR (Interquartile Range)
+
+🧠 Real-World Example:
+In Flipkart transaction data, a ₹99,999 order might be a fraudulent spike — that’s an outlier worth investigating.
+
+
+📘 Lesson 3: Central Tendency – Mean vs Median:
+===============================================
+🔍 Summary:
+Mean: arithmetic average
+
+Median: middle value
+Use median when data is skewed by outliers.
+
+🧠 Real-World Example:
+In a company, if most employees earn ₹30K but the CEO earns ₹10L,
+
+Mean salary is misleading
+
+Median salary better represents majority
+
+
+📘 Lesson 4: Introduction to A/B Testing:
+=========================================
+🔍 Summary:
+A/B Testing is used to compare two versions of a product or webpage to see which performs better.
+
+🧠 Real-World Example:
+At Zomato, run A/B tests to:
+
+Compare red vs green “Order Now” buttons
+
+Measure clicks & conversions
+
+
+📘 Lesson 5: Real-Time vs Batch Data Processing:
+================================================
+🔍 Summary:
+Real-Time: data is processed instantly (live)
+
+Batch: data is collected, stored, and processed in chunks
+
+🧠 Real-World Example:
+Netflix uses real-time data to recommend shows
+
+Banks use batch processing to settle daily transactions
+
+
+🧾 Summary: Day 6 Lessons:
+===========================
+#	Topic	Real-World Use Case
+1	Correlation vs Causation	YouTube & revenue
+2	Outlier Detection (IQR)	Flipkart fraud
+3	Mean vs Median	Salary analysis
+4	A/B Testing	Zomato UI testing
+5	Real-Time vs Batch Processing	Netflix, banking
